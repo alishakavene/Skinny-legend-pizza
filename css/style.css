@@ -204,4 +204,68 @@ header {
 /*=======================================
   CART STYLES
   =======================================*/
+#cart {
+	opacity: 0;
+	margin: 15px auto;
+	width: 650px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+	background-color: pink;
+	border: 3px solid #fff;
+	box-shadow: 0 0 0 2px rgba(0,0,0,.3);
+	border-radius: 1px;
+}
 
+#head1 {
+	color: pink;
+	flex: 1 250px;
+	height: 50px;
+	width: 250px;
+	padding: 10px;
+	background-color: pink;
+	text-shadow: 1.5px 1.5px 5px white, 1px 1px 5px white;
+}
+
+#head2 {
+	color: #fff;
+	flex: 1 250px;
+	height: 50px;
+	width: 250px;
+	padding: 0 0 0px 10px;
+	background-color: pink;
+	text-shadow: 1.5px 1.5px 5px #000, 1px 1px 5px #000;
+}
+
+#showText1 {
+	font-size: 13px;
+	flex: 1 250px;
+	padding: 1px 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+}
+
+#showText2 {
+	font-size: 13px;
+	flex: 1 250px;
+	padding: 1px 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+}
+
+#totalPrice1 {
+	flex: 1 250px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+	text-align: right;
+}
+
+#totalPrice2 {
+	flex: 1 250px;
+	font-weight: bold;
+	padding: 20px 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+}
