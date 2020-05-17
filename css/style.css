@@ -170,4 +170,38 @@ header {
 .controls .button {
 	flex: 1 150px;
 }
+.button {
+	cursor: pointer;
+	color: #fff;
+	width: 100%;
+	display: block;
+	text-decoration: none;
+	background-color: transparent;
+	text-shadow: 1.5px 1.5px 5px #000, 1px 1px 5px #000;
+	border-radius: 1px;
+	margin: 1% 3px;
+	padding: .1px 0 .1px 0px;
+    font: 18px;
+	border: 2px solid #fff;
+	box-shadow: 0 0 0 2px rgba(0,0,0,.3);
+	transition-timing-function: ease-in-out;
+	transition-duration: .3s, .5s, .2s;
+}
+
+.button p {
+	text-align: center;
+	font-weight: bold;
+}
+
+.button:hover {
+	font: 18px;
+	font-weight: bold;
+	color: #fff;
+	background-color:pink;
+	box-shadow: 0 0 0 2px rgba(0,0,0,.3);
+}
+
+/*=======================================
+  CART STYLES
+  =======================================*/
 
