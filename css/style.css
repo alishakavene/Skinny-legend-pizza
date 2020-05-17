@@ -1,0 +1,11 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+  background-color: white;
+  background-image: url( https://images.adsttc.com/media/images/5d06/ce01/284d/d137/2600/0266/slideshow/ChildStudio_6.jpg?1560727029);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top;
+}
