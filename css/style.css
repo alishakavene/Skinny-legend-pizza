@@ -471,4 +471,66 @@ justify-content: space-between;
 padding: 30px 5%;
 text-shadow: 2px 2px 12px pink;
 color: white;
+}.food-1 p,.food-2 p,.food-3 p{
+  font-size: 30px;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  line-height: 10px;
 }
+.price button{
+  height: 35px;
+  width: 100px;
+  color: white;
+  border: none;
+  background-color: pink;
+  outline: none;
+  border-radius: 20px;
+  box-shadow: 2px 2px 12px pink;
+
+}
+.select{
+  line-height: 8px;
+}
+.second-row{
+  display: flex;
+}
+button:active{
+  transform: scale(1.2);
+  transition: 0.5s;
+  cursor: pointer;
+}
+button a:hover{
+  color: pink;
+}
+
+.third-row{
+  display: flex;
+}
+.food-4{
+  width: 354px;
+  height: 350px;
+  margin: 10px;
+background-image: url( https://shortgirltallorder.com/wp-content/uploads/2020/04/vegan-pizza-2.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+justify-content: space-between;
+padding: 30px 5%;
+text-shadow: 2px 2px 12px pink;
+color: white;
+}
+.bag-btn{
+  position: relative;
+  top: 70%;
+  right: 0;
+  background: white;
+  border: none;
+  text-transform: uppercase;
+  padding: 0.5rem 0.75;
+  font-weight: bold;
+  transition: 10;
+  transform: translateX(120%);
+  cursor: pointer;
+}
+
+
