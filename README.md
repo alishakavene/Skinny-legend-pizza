@@ -17,7 +17,7 @@ You need a web browser installed on your machine as well as a text editor in ord
 * javascript
 * jquery
 ## Support and contact details
-You can provide feedback or raise any issues/ bugs through the following means https://github.com/alishakavene/akancalculator
+You can provide feedback or raise any issues/ bugs through my Email @ akmunywoki@gmail.com
 
 Slack me @ alishakavene
 
@@ -29,7 +29,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Github pages link
-You can view the live application through this link https://alishakavene.github.io/Delani-studios/
+You can view the live application through this link https://alishakavene.github.io/skinny-legend-pizza/
 
 ## Copyright
 (c) 2020 Alisha Kavene
