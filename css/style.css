@@ -116,4 +116,58 @@ header {
     font-weight: 900;
     border: 5px double #fff;
     padding: 10px;
+}/*=======================================
+  MENU STYLES
+  =======================================*/
+
+#menu-all {
+	width: 650px;
+	margin: 0% auto;
+	padding: 1px 0px;
 }
+
+#form {
+	margin: 0% auto;
+	width: 600px;
+	border-radius: 25px;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: stretch;
+}
+
+.menu-item {
+	flex: 1 150px;
+	min-width: 0;
+	border: 3px solid #fff;
+	box-shadow: 0 0 0 2px rgba(0,0,0, 0.3);
+    padding: 0 0 10px 0;
+	margin: 3px;
+	border-radius: 1px;
+	background-color: white;
+}
+
+.menu-item h3 {
+	color: #fff;
+	padding: 0 0 0 60px;
+	margin: 0 auto;
+	background-color: pink;
+	text-shadow: 1.5px 1.5px 5px #000, 1px 1px 5px #000;
+}
+
+/*=======================================
+  BUTTON STYLES
+  =======================================*/
+
+.controls {
+	display: flex;
+    justify-content: space-between;
+	margin: 10px auto 30px;
+	width: 450px;
+}
+
+.controls .button {
+	flex: 1 150px;
+}
+
