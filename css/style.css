@@ -393,3 +393,82 @@ h1 {
   box-shadow: 2px 2px 12px pink;
   text-shadow: 2px 2px 12px pink;
 }
+.text{
+  background-color: white;
+  border-radius: 20px;
+  width: 250px;
+  height:35px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 2px 2px 12px pink;
+  text-shadow: 2px 2px 12px pink;
+
+}
+.text input[type=search]{
+  border:none;
+  background-color: transparent;
+  text-align: center;
+  outline: none;
+}
+.text button{
+  height: 40px;
+  width: 100px;
+  border: none;
+  font-family: sans-serif;
+  font-weight: bold;
+  outline: none;
+  border-radius: 0px 20px 20px 0px;
+  border-left: 1px solid pink;
+  text-shadow: 2px 2px 12px pink;
+  background-color: pink;
+}
+.order{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.order a{
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-shadow: 2px 2px 12px pink;
+  color: white;
+}
+.food-1{
+  width: 354px;
+  height: 350px;
+  margin: 10px;
+  background-image: url( https://assets.myfoodandfamily.com/adaptivemedia/rendition/206244_3000x2000.jpg?id=bf7582534c71cabdc17ab4e3974617994bfd96c7&ht=650&wd=1004&clid=pim);
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: space-between;
+  padding: 30px 5%;
+  text-shadow: 2px 2px 12px pink;
+  color: white;
+
+}
+.food-2{
+  width: 354px;
+  height: 350px;
+  margin: 10px;
+  background-image: url(https://www.simplemost.com/wp-content/uploads/2017/11/33066412516_909f199a0e_o-750x500.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: space-between;
+  padding: 30px 5%;
+  text-shadow: 2px 2px 12px pink;
+  color: white;
+
+}
+.food-3{
+  width: 354px;
+  height: 350px;
+  margin: 10px;
+background-image: url( https://www.jennycancook.com/wp-content/uploads/2015/03/BBQ_Chicken_Pizza_600.jpg);
+background-repeat: no-repeat;
+justify-content: space-between;
+padding: 30px 5%;
+text-shadow: 2px 2px 12px pink;
+color: white;
+}
