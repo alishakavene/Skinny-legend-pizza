@@ -532,5 +532,112 @@ color: white;
   transform: translateX(120%);
   cursor: pointer;
 }
-
+.food-5{
+  width: 354px;
+  height: 350px;
+  margin: 10px;
+background-image: url( https://thumbs-prod.si-cdn.com/9aFJPOkDiXJw0OGxwpdojwIg9f8=/fit-in/1600x0/https://public-media.si-cdn.com/filer/9a/38/9a388951-b252-4535-b5ee-740d21a74842/mmmmm.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+justify-content: space-between;
+padding: 30px 5%;
+text-shadow: 2px 2px 12px pink;
+color: white;
+}
+.food-6{
+  width: 354px;
+  height: 350px;
+  margin: 10px;
+background-image: url(https://i.pinimg.com/originals/70/2d/15/702d157160e5804d0c389ef54841b881.jpg );
+background-repeat: no-repeat;
+background-size: cover;
+justify-content: space-between;
+padding: 30px 5%;
+text-shadow: 2px 2px 12px pink;
+color: white;
+}
+.food-4 p,.food-5 p,.food-6 p{
+  font-size: 30px;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  line-height: 10px;
+}
+select{
+height: 35px;
+width: 100px;
+padding: 6px;
+color: white;
+border: none;
+background-color: pink;
+outline: none;
+border-radius: 20px;
+box-shadow: 2px 2px 12px pink;
+}
+.forth-row{
+  display: flex;
+}
+.sides{
+  width: 540px;
+  height: 180px;
+  margin: 10px;
+background-image: url( https://www.savoryexperiments.com/wp-content/uploads/2017/01/Bacon-Jalapeno-Fry-Sauce.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+justify-content: space-between;
+padding: 30px 5%;
+text-shadow: 2px 2px 12px pink;
+color: white;
+}
+.drinks{
+  width: 540px;
+  height: 180px;
+  margin: 10px;
+background-image: url(https://i2.wp.com/www.eatthis.com/wp-content/uploads//media/images/ext/108098914/coca-cola-soda-ice.jpg?resize=640%2C360&ssl=1 );
+background-repeat: no-repeat;
+justify-content: space-between;
+padding: 30px 5%;
+text-shadow: 2px 2px 12px pink;
+color: white;
+}
+.sides,.drinks{
+  font-size: 30px;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  line-height: 10px;
+}
+.footer{
+  background-color: pink;
+  height: 180px;
+}
+.social ul{
+  display: flex;
+}
+.social ul li{
+color: white;
+height: 16px;
+margin-top: 10px;
+line-height: 12px;
+padding: 20px;
+}
+.footer-menu ul{
+  display: flex;
+}
+.footer-menu ul li a{
+  color: white;
+  border-left: 13px;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.copyright{
+  color: white;
+  padding: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  font-weight: 400;
+}
 
