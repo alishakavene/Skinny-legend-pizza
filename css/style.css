@@ -9,6 +9,7 @@ body{
   background-attachment: fixed;
   background-position: top;
 }
+
 *{
   box-sizing: border-box;
 }
@@ -84,6 +85,7 @@ h1::after {  /* This is the underline */
 	margin: 5px auto 25px;
 	box-shadow: 5px 2px 3px rgba(0,0,0,0.5);
 }
+
 .container {
   padding-right: 30px;
   padding-left: 30px;
@@ -116,7 +118,9 @@ header {
     font-weight: 900;
     border: 5px double #fff;
     padding: 10px;
-}/*=======================================
+}
+
+/*=======================================
   MENU STYLES
   =======================================*/
 
@@ -170,6 +174,7 @@ header {
 .controls .button {
 	flex: 1 150px;
 }
+
 .button {
 	cursor: pointer;
 	color: #fff;
@@ -204,6 +209,7 @@ header {
 /*=======================================
   CART STYLES
   =======================================*/
+
 #cart {
 	opacity: 0;
 	margin: 15px auto;
@@ -392,17 +398,6 @@ h1 {
   align-items: center;
   box-shadow: 2px 2px 12px pink;
   text-shadow: 2px 2px 12px pink;
-}
-.text{
-  background-color: white;
-  border-radius: 20px;
-  width: 250px;
-  height:35px;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  box-shadow: 2px 2px 12px pink;
-  text-shadow: 2px 2px 12px pink;
 
 }
 .text input[type=search]{
@@ -471,7 +466,10 @@ justify-content: space-between;
 padding: 30px 5%;
 text-shadow: 2px 2px 12px pink;
 color: white;
-}.food-1 p,.food-2 p,.food-3 p{
+
+
+}
+.food-1 p,.food-2 p,.food-3 p{
   font-size: 30px;
   color: white;
   font-family: sans-serif;
@@ -532,6 +530,7 @@ color: white;
   transform: translateX(120%);
   cursor: pointer;
 }
+
 .food-5{
   width: 354px;
   height: 350px;
