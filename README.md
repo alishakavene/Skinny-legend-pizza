@@ -1,5 +1,5 @@
 # skinny-legend-pizza
-![alt text](https://cdn.junglecreations.com/wp/junglecms/2019/09/bd813bc6-pink-pizza.jpg)
+![alt text]( https://deliciapizza.files.wordpress.com/2017/06/pizza-inn-irving-texas-background-pizzas.jpg?w=900)
 # Author 
 Alisha Kavene
 Description
