@@ -14,6 +14,11 @@ You need a web browser installed on your machine as well as a text editor in ord
 1.Atom
 2.Sublime
 3.Visual Studio Code
+
+## BDD
+
+My Pizza Shop works on a few behaviors: 1.User slects type of pizza they want. 2. Then selects type of toppings and crust 3.Chooses number of pizzas 4.Then user checksout 5. Chooses location and waits for delivery
+
 ## Technologies Used
 * html
 * css
