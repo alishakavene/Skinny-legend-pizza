@@ -50,6 +50,7 @@ box-shadow: 2px 2px 12px white;
   background-image: url( https://www.foodiesfeed.com/wp-content/uploads/2019/02/messy-pizza-on-a-black-table.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  margin-top:50px;
 }
 #contact{
   color: black;
@@ -78,4 +79,7 @@ h1{
 }
 .navbar-brand{
   color: black;
+}
+.container-fluid{
+  margin-top: 10px;
 }
