@@ -20,8 +20,10 @@ a{
   background-color: black;
   box-shadow: 2px 2px 12px white;
 }
-.text-uppercase{
-  size:20px;
+.text-lowercase{
+  size:18px;
+  text-transform: lowercase;
+  color: white;
 }
 .btn{
   height: 35px;
@@ -34,9 +36,9 @@ outline: none;
 border-radius: 20px;
 box-shadow: 2px 2px 12px white;
 }
-.button{
+#orange{
   height: 35px;
-width: 180px;
+width: 300px;
 padding: 6px;
 color: black;
 border: none;
@@ -146,3 +148,4 @@ margin-bottom: 1rem;
 #about li a {
   color: grey;
 }
+
