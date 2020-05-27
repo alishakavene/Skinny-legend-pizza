@@ -84,6 +84,8 @@ box-shadow: 2px 2px 12px white;
 h5{
   color: white;
 }
+h5::after{
+  color: white;
 h1{
   color: white;
 }
